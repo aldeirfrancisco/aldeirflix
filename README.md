@@ -1,11 +1,8 @@
 <h1 align="center">
 <br>
   
-  <img src="asets" alt="YOUR_PROJECT_NAME width="120">m
-   <img className="Logo" src="assets/img/logo.png" alt="Aldeirflix Logo" />   
-  
-                                                     
-                                                     
+  <img src="C:\Users\Aldeir\Desktop\faculdade\FaculdadeMateria\lingua_tecni_program_web/logo.png" alt="YOUR_PROJECT_NAME widt="120">m
+                                                 
 <br>
 <br>
 YOUR_PROJECT_NAME
