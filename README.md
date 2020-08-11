@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
   
-  <img src="https://github.com/aldeirfrancisco/aldeirflix/blob/master/logo.png" alt="Aldeirflix" widt="120" />
+  <img src="https://github.com/aldeirfrancisco/aldeirflix/blob/master/logo.png" alt="Aldeirflix" widt="20" />
                                                  
 <br>
 <br>
@@ -19,6 +19,7 @@ AldeirFlix
 [//]: # (Add your gifs/images here:)
 <div>
 
+  <img src="https://github.com/aldeirfrancisco/aldeirflix/blob/master/React-App.gif" />
 </div>
 
 <hr />
@@ -30,7 +31,7 @@ git clone https://github.com/aldeirfrancisco/aldeirflix.git
 ## instale as dependência:
 npm install
 
-No diretori do projecto , você pode executar:
+No diretorio do projecto , você pode executar:
 
 ### `npm run dev`
 
