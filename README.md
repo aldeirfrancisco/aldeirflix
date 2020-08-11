@@ -8,7 +8,7 @@
 AldeirFlix
 </h1>
 
-<p align="center">Esse projeto foi o resultado da minha participação do Imersão React do alura que tinha como principal objetivo clonar a Netflix </p>
+<p align="center">Esse projeto foi o resultado da minha participação do Imersão React do alura que tinha como principal objetivo clonar a Netflix  com React js</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
